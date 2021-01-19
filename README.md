@@ -8,7 +8,7 @@ bootstrap has been used in the way to provide styling to the application . Follo
 * made the responsive portfolio 
 
 # CSS 
-* For  CSS stying , in the HTML code have added the "style element "
+* For  CSS styling , in the HTML code have added the "style element "
 * Added different specifications for each of the page such as background colo, font-size, padding and boder, to give the styling to the application 
 
 
